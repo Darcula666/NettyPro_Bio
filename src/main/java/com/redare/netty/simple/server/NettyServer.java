@@ -1,4 +1,4 @@
-package com.redare.netty.simple;
+package com.redare.netty.simple.server;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
